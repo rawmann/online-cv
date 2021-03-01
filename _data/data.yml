@@ -83,31 +83,28 @@ experiences:
           - Bullet point
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: Tools 
+       assignments:
+       
+      - title: MySQL
+        link: 
+        tagline: 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: DEV-C++   
+        link: 
+        tagline: 
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Eclipse
+        link: 
+        tagline: 
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Unity
+        link:
+        tagline:
+        
+      - title: Adobe Photoshop CS
+        link: 
+        tagline: 
 
 tools:
     title: Tools
@@ -131,6 +128,10 @@ skills:
     toolset:
       - name: C++
         level: 60%
+        
+      - name: SQL
+        level: 60%
+
 
       - name: Javascript
         level: 50%
