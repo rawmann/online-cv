@@ -73,47 +73,8 @@ experiences:
        I dont have any experience yet in Computer Science jobs because im still a student but I would definately try something if I get a chance
         
 
-projects:
-    title: Tools 
-       assignments:
-       
-      - title: MySQL
-        link: 
-        tagline: 
 
-      - title: DEV-C++   
-        link: 
-        tagline: 
 
-      - title: Eclipse
-        link: 
-        tagline: 
-
-      - title: Unity
-        link:
-        tagline:
-        
-      - title: Adobe Photoshop CS
-        link: 
-        tagline: 
-        
-
-tools:
-    title: Tools
-    intro: |
-      
-    papers:
-      - title: MySQL
-        link:
-
-      - title: DEV-C++        
-
-      - title: Eclipse
-      
-      - title: Unity
-      
-      - title: Adobe Photoshop CS
-      
 
 skills:
     title: Skills &amp; Proficiency
@@ -140,6 +101,24 @@ skills:
 
       - name: Photoshop
         level: 60%
+        
+        
+tools:
+    title: Tools
+    intro: |
+      
+    papers:
+      - title: MySQL
+        link:
+
+      - title: DEV-C++        
+
+      - title: Eclipse
+      
+      - title: Unity
+      
+      - title: Adobe Photoshop CS
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
